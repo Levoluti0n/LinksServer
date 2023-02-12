@@ -1,0 +1,13 @@
+.load {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    /* background-color: gray; */
+    justify-content: center;
+}
+.load label {
+    font-size: 23px;
+    font-weight: 400;
+    color: rgb(67, 67, 67)
+}
